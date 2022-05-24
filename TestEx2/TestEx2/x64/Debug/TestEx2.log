@@ -1,0 +1,4 @@
+﻿  Main.cpp
+F:\Users\Artem\source\repos\TestEx2\TestEx2\Main.cpp(73,35): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Users\Artem\source\repos\TestEx2\TestEx2\Main.cpp(74,35): warning C4305: 'argument': truncation from 'double' to 'float'
+  TestEx2.vcxproj -> F:\Users\Artem\source\repos\TestEx2\x64\Debug\TestEx2.exe
